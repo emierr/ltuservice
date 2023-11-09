@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="LTUServices:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="AutomaticModuleUnloader">
+    <loaded-modules>
+      <module name="LTUServices" />
+    </loaded-modules>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b5a71925-f33b-4e44-8b81-05b90dd282fe" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/templateLanguages.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/validation.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/webServers.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Model/Modul.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Model/Result.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Model/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Services/EpokWS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Services/HelloApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Services/HelloResource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Services/LadokWS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Services/StudentITSWS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/META-INF/beans.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2XuYemZjZMK0SpdU1rKoEFijfTX" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "true",
+    "WebServerToolWindowPanel.toolwindow.highlight.mappings": "true",
+    "WebServerToolWindowPanel.toolwindow.highlight.symlinks": "true",
+    "WebServerToolWindowPanel.toolwindow.show.date": "false",
+    "WebServerToolWindowPanel.toolwindow.show.permissions": "false",
+    "WebServerToolWindowPanel.toolwindow.show.size": "false",
+    "jdk.selected.JAVA_MODULE": "corretto-17",
+    "last_opened_file_path": "/home/themannen/IdeaProjects/LTUServices",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.stylelint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.stylelint": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Problems",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.412",
+    "settings.editor.selected.configurable": "project.propDebugger",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="Services" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="EmilFish 7.0.10" type="GlassfishConfiguration" factoryName="Local" APPLICATION_SERVER_NAME="EmilFish 7.0.10" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="UPDATE_ON_FRAME_DEACTIVATION" value="true" />
+      <option name="UPDATE_CLASSES_ON_FRAME_DEACTIVATION" value="true" />
+      <option name="UPDATING_POLICY" value="redeploy-artifacts" />
+      <deployment>
+        <artifact name="LTUServices:war exploded">
+          <settings />
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="DOMAIN" value="domain1" />
+        <option name="PRESERVE" value="false" />
+        <option name="COMPATIBILITY" value="false" />
+        <option name="VIRTUAL_SERVER" />
+        <option name="USERNAME" value="admin" />
+        <option name="CREDENTIAL_ALIAS" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="GlassFish" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="9009" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="LTUServices:war exploded" />
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b5a71925-f33b-4e44-8b81-05b90dd282fe" name="Changes" comment="" />
+      <created>1699480532997</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1699480532997</updated>
+      <workItem from="1699480534020" duration="4717000" />
+      <workItem from="1699493448458" duration="5705000" />
+      <workItem from="1699518304596" duration="15480000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand>
+      <path>
+        <item name="LTUServices" type="b2602c69:ProjectViewProjectNode" />
+        <item name="dir{file:///home/themannen/IdeaProjects/LTUServices}" type="462c0819:PsiDirectoryNode" />
+      </path>
+    </expand>
+    <select />
+  </component>
+</project>
