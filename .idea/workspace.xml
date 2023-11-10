@@ -15,7 +15,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b5a71925-f33b-4e44-8b81-05b90dd282fe" name="Changes" comment="OscarFish">
-      <change afterPath="$PROJECT_DIR$/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +64,7 @@
     "WebServerToolWindowPanel.toolwindow.show.permissions": "false",
     "WebServerToolWindowPanel.toolwindow.show.size": "false",
     "jdk.selected.JAVA_MODULE": "corretto-17",
-    "last_opened_file_path": "/home/themannen/IdeaProjects/LTUServices",
+    "last_opened_file_path": "/home/themannen/IdeaProjects/bothnia",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.stylelint": "true",
     "node.js.detected.package.tslint": "true",
@@ -72,7 +72,7 @@
     "node.js.selected.package.stylelint": "",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Problems",
+    "project.structure.last.edited": "Libraries",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.412",
     "settings.editor.selected.configurable": "project.propDebugger",
@@ -80,6 +80,9 @@
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
     <key name="ExtractSuperBase.RECENT_KEYS">
       <recent name="Services" />
     </key>
@@ -169,7 +172,8 @@
       <updated>1699480532997</updated>
       <workItem from="1699480534020" duration="4717000" />
       <workItem from="1699493448458" duration="5705000" />
-      <workItem from="1699518304596" duration="15965000" />
+      <workItem from="1699518304596" duration="17552000" />
+      <workItem from="1699604235495" duration="1138000" />
     </task>
     <task id="LOCAL-00001" summary="OscarFish">
       <option name="closed" value="true" />
@@ -179,7 +183,15 @@
       <option name="project" value="LOCAL" />
       <updated>1699537904839</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="OscarFish">
+      <option name="closed" value="true" />
+      <created>1699538491130</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1699538491130</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
