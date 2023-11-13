@@ -1,9 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="dataSourceStorageLocal" created-in="IU-232.10203.10">
-    <data-source name="mariadbny - LTUService@localhost" uuid="c7e45b7d-c55a-4c58-967b-907991658474">
-      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" dbms="MARIADB" exact-version="0" />
-      <schema-mapping />
+  <component name="dataSourceStorageLocal" created-in="IU-232.10227.8">
+    <data-source name="java@themannen.xyz" uuid="229b68a4-9353-4fda-bad4-ca1a26d34e91">
+      <database-info product="MariaDB" version="11.1.2-MariaDB" jdbc-version="4.2" driver-name="MariaDB Connector/J" driver-version="2.6.0" dbms="MARIADB" exact-version="11.1.2" exact-driver-version="2.6">
+        <extra-name-characters>#@</extra-name-characters>
+        <identifier-quote-string>`</identifier-quote-string>
+      </database-info>
+      <case-sensitivity plain-identifiers="exact" quoted-identifiers="exact" />
+      <secret-storage>master_key</secret-storage>
+      <user-name>java</user-name>
+      <schema-mapping>
+        <introspection-scope>
+          <node kind="schema" qname="LTUServices" />
+        </introspection-scope>
+      </schema-mapping>
+      <ssl-config use-ide-store="true" use-java-store="true" use-system-store="true">
+        <ca-cert>/etc/mysql/ssl/ca.pem</ca-cert>
+        <client-cert>/etc/mysql/ssl/client-cert.pem</client-cert>
+        <client-key>/etc/mysql/ssl/client-key.pem</client-key>
+        <enabled>true</enabled>
+      </ssl-config>
     </data-source>
   </component>
 </project>
