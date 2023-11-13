@@ -8,5 +8,4 @@ public class Ladok {
 	public String modul;
 	public Date datum;
 	public String betyg;
-
 }
