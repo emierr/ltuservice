@@ -1,0 +1,243 @@
+Index: .idea/misc.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><project version=\"4\">\r\n  <component name=\"ExternalStorageConfigurationManager\" enabled=\"true\" />\r\n  <component name=\"MavenProjectsManager\">\r\n    <option name=\"originalFiles\">\r\n      <list>\r\n        <option value=\"$PROJECT_DIR$/pom.xml\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"ProjectRootManager\" version=\"2\" languageLevel=\"JDK_17\" default=\"true\" project-jdk-name=\"corretto-17\" project-jdk-type=\"JavaSDK\">\r\n    <output url=\"file://$PROJECT_DIR$/out\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/misc.xml b/.idea/misc.xml
+--- a/.idea/misc.xml	(revision 4300fd08e78a5312941796bfab6a74e0faac0727)
++++ b/.idea/misc.xml	(date 1699877863719)
+@@ -1,13 +1,6 @@
++<?xml version="1.0" encoding="UTF-8"?>
+ <project version="4">
+-  <component name="ExternalStorageConfigurationManager" enabled="true" />
+-  <component name="MavenProjectsManager">
+-    <option name="originalFiles">
+-      <list>
+-        <option value="$PROJECT_DIR$/pom.xml" />
+-      </list>
+-    </option>
+-  </component>
+-  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="corretto-17" project-jdk-type="JavaSDK">
++  <component name="ProjectRootManager" version="2" languageLevel="JDK_21" project-jdk-name="corretto-17" project-jdk-type="JavaSDK">
+     <output url="file://$PROJECT_DIR$/out" />
+   </component>
+ </project>
+\ No newline at end of file
+Index: .idea/vcs.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"VcsDirectoryMappings\">\r\n    <mapping directory=\"$PROJECT_DIR$\" vcs=\"Git\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/vcs.xml b/.idea/vcs.xml
+--- a/.idea/vcs.xml	(revision 4300fd08e78a5312941796bfab6a74e0faac0727)
++++ b/.idea/vcs.xml	(date 1699877849196)
+@@ -1,6 +1,6 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+ <project version="4">
+   <component name="VcsDirectoryMappings">
+-    <mapping directory="$PROJECT_DIR$" vcs="Git" />
++    <mapping directory="" vcs="Git" />
+   </component>
+ </project>
+\ No newline at end of file
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"ArtifactsWorkspaceSettings\">\r\n    <artifacts-to-build>\r\n      <artifact name=\"LTUServices:war exploded\" />\r\n    </artifacts-to-build>\r\n  </component>\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"AutomaticModuleUnloader\">\r\n    <loaded-modules>\r\n      <module name=\"LTUServices\" />\r\n    </loaded-modules>\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"b5a71925-f33b-4e44-8b81-05b90dd282fe\" name=\"Changes\" comment=\"OscarFish\">\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"CompilerWorkspaceConfiguration\">\r\n    <option name=\"MAKE_PROJECT_ON_SAVE\" value=\"true\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"Class\" />\r\n        <option value=\"Interface\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"LogFilters\">\r\n    <option name=\"FILTER_ERRORS\" value=\"false\" />\r\n    <option name=\"FILTER_WARNINGS\" value=\"false\" />\r\n    <option name=\"FILTER_INFO\" value=\"true\" />\r\n    <option name=\"FILTER_DEBUG\" value=\"true\" />\r\n    <option name=\"CUSTOM_FILTER\" />\r\n  </component>\r\n  <component name=\"ProjectColorInfo\">{\r\n  &quot;associatedIndex&quot;: 8\r\n}</component>\r\n  <component name=\"ProjectId\" id=\"2XuYemZjZMK0SpdU1rKoEFijfTX\" />\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\"><![CDATA[{\r\n  \"keyToString\": {\r\n    \"RunOnceActivity.OpenProjectViewOnStart\": \"true\",\r\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\",\r\n    \"SHARE_PROJECT_CONFIGURATION_FILES\": \"true\",\r\n    \"WebServerToolWindowFactoryState\": \"true\",\r\n    \"WebServerToolWindowPanel.toolwindow.highlight.mappings\": \"true\",\r\n    \"WebServerToolWindowPanel.toolwindow.highlight.symlinks\": \"true\",\r\n    \"WebServerToolWindowPanel.toolwindow.show.date\": \"false\",\r\n    \"WebServerToolWindowPanel.toolwindow.show.permissions\": \"false\",\r\n    \"WebServerToolWindowPanel.toolwindow.show.size\": \"false\",\r\n    \"jdk.selected.JAVA_MODULE\": \"corretto-17\",\r\n    \"last_opened_file_path\": \"/home/themannen/IdeaProjects/bothnia\",\r\n    \"node.js.detected.package.eslint\": \"true\",\r\n    \"node.js.detected.package.stylelint\": \"true\",\r\n    \"node.js.detected.package.tslint\": \"true\",\r\n    \"node.js.selected.package.eslint\": \"(autodetect)\",\r\n    \"node.js.selected.package.stylelint\": \"\",\r\n    \"node.js.selected.package.tslint\": \"(autodetect)\",\r\n    \"nodejs_package_manager_path\": \"npm\",\r\n    \"project.structure.last.edited\": \"Libraries\",\r\n    \"project.structure.proportion\": \"0.15\",\r\n    \"project.structure.side.proportion\": \"0.412\",\r\n    \"settings.editor.selected.configurable\": \"project.propDebugger\",\r\n    \"vue.rearranger.settings.migration\": \"true\"\r\n  }\r\n}]]></component>\r\n  <component name=\"RecentsManager\">\r\n    <key name=\"MoveFile.RECENT_KEYS\">\r\n      <recent name=\"$PROJECT_DIR$\" />\r\n    </key>\r\n    <key name=\"ExtractSuperBase.RECENT_KEYS\">\r\n      <recent name=\"Services\" />\r\n    </key>\r\n  </component>\r\n  <component name=\"RunManager\">\r\n    <configuration name=\"EmilFish 7.0.10\" type=\"GlassfishConfiguration\" factoryName=\"Local\" APPLICATION_SERVER_NAME=\"EmilFish 7.0.10\" ALTERNATIVE_JRE_ENABLED=\"false\" nameIsGenerated=\"true\">\r\n      <option name=\"UPDATE_ON_FRAME_DEACTIVATION\" value=\"true\" />\r\n      <option name=\"UPDATE_CLASSES_ON_FRAME_DEACTIVATION\" value=\"true\" />\r\n      <option name=\"UPDATING_POLICY\" value=\"redeploy-artifacts\" />\r\n      <deployment>\r\n        <artifact name=\"LTUServices:war exploded\">\r\n          <settings />\r\n        </artifact>\r\n      </deployment>\r\n      <server-settings>\r\n        <option name=\"DOMAIN\" value=\"domain1\" />\r\n        <option name=\"PRESERVE\" value=\"false\" />\r\n        <option name=\"COMPATIBILITY\" value=\"false\" />\r\n        <option name=\"VIRTUAL_SERVER\" />\r\n        <option name=\"USERNAME\" value=\"admin\" />\r\n        <option name=\"CREDENTIAL_ALIAS\" />\r\n      </server-settings>\r\n      <predefined_log_file enabled=\"true\" id=\"GlassFish\" />\r\n      <RunnerSettings RunnerId=\"Debug\">\r\n        <option name=\"DEBUG_PORT\" value=\"9009\" />\r\n      </RunnerSettings>\r\n      <ConfigurationWrapper VM_VAR=\"JAVA_OPTS\" RunnerId=\"Cover\">\r\n        <option name=\"USE_ENV_VARIABLES\" value=\"true\" />\r\n        <STARTUP>\r\n          <option name=\"USE_DEFAULT\" value=\"true\" />\r\n          <option name=\"SCRIPT\" value=\"\" />\r\n          <option name=\"VM_PARAMETERS\" value=\"\" />\r\n          <option name=\"PROGRAM_PARAMETERS\" value=\"\" />\r\n        </STARTUP>\r\n        <SHUTDOWN>\r\n          <option name=\"USE_DEFAULT\" value=\"true\" />\r\n          <option name=\"SCRIPT\" value=\"\" />\r\n          <option name=\"VM_PARAMETERS\" value=\"\" />\r\n          <option name=\"PROGRAM_PARAMETERS\" value=\"\" />\r\n        </SHUTDOWN>\r\n      </ConfigurationWrapper>\r\n      <ConfigurationWrapper VM_VAR=\"JAVA_OPTS\" RunnerId=\"Debug\">\r\n        <option name=\"USE_ENV_VARIABLES\" value=\"true\" />\r\n        <STARTUP>\r\n          <option name=\"USE_DEFAULT\" value=\"true\" />\r\n          <option name=\"SCRIPT\" value=\"\" />\r\n          <option name=\"VM_PARAMETERS\" value=\"\" />\r\n          <option name=\"PROGRAM_PARAMETERS\" value=\"\" />\r\n        </STARTUP>\r\n        <SHUTDOWN>\r\n          <option name=\"USE_DEFAULT\" value=\"true\" />\r\n          <option name=\"SCRIPT\" value=\"\" />\r\n          <option name=\"VM_PARAMETERS\" value=\"\" />\r\n          <option name=\"PROGRAM_PARAMETERS\" value=\"\" />\r\n        </SHUTDOWN>\r\n      </ConfigurationWrapper>\r\n      <ConfigurationWrapper VM_VAR=\"JAVA_OPTS\" RunnerId=\"Run\">\r\n        <option name=\"USE_ENV_VARIABLES\" value=\"true\" />\r\n        <STARTUP>\r\n          <option name=\"USE_DEFAULT\" value=\"true\" />\r\n          <option name=\"SCRIPT\" value=\"\" />\r\n          <option name=\"VM_PARAMETERS\" value=\"\" />\r\n          <option name=\"PROGRAM_PARAMETERS\" value=\"\" />\r\n        </STARTUP>\r\n        <SHUTDOWN>\r\n          <option name=\"USE_DEFAULT\" value=\"true\" />\r\n          <option name=\"SCRIPT\" value=\"\" />\r\n          <option name=\"VM_PARAMETERS\" value=\"\" />\r\n          <option name=\"PROGRAM_PARAMETERS\" value=\"\" />\r\n        </SHUTDOWN>\r\n      </ConfigurationWrapper>\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n        <option name=\"BuildArtifacts\" enabled=\"true\">\r\n          <artifact name=\"LTUServices:war exploded\" />\r\n        </option>\r\n      </method>\r\n    </configuration>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"b5a71925-f33b-4e44-8b81-05b90dd282fe\" name=\"Changes\" comment=\"\" />\r\n      <created>1699480532997</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1699480532997</updated>\r\n      <workItem from=\"1699480534020\" duration=\"4717000\" />\r\n      <workItem from=\"1699493448458\" duration=\"5705000\" />\r\n      <workItem from=\"1699518304596\" duration=\"17552000\" />\r\n      <workItem from=\"1699604235495\" duration=\"1138000\" />\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"OscarFish\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1699537904839</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1699537904839</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00002\" summary=\"OscarFish\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1699538491130</created>\r\n      <option name=\"number\" value=\"00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1699538491130</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"3\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"3\" />\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"OscarFish\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"OscarFish\" />\r\n  </component>\r\n  <component name=\"XSLT-Support.FileAssociations.UIState\">\r\n    <expand>\r\n      <path>\r\n        <item name=\"LTUServices\" type=\"b2602c69:ProjectViewProjectNode\" />\r\n        <item name=\"dir{file:///home/themannen/IdeaProjects/LTUServices}\" type=\"462c0819:PsiDirectoryNode\" />\r\n      </path>\r\n    </expand>\r\n    <select />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision 4300fd08e78a5312941796bfab6a74e0faac0727)
++++ b/.idea/workspace.xml	(date 1699878138204)
+@@ -1,53 +1,31 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+ <project version="4">
+-  <component name="ArtifactsWorkspaceSettings">
+-    <artifacts-to-build>
+-      <artifact name="LTUServices:war exploded" />
+-    </artifacts-to-build>
+-  </component>
+-  <component name="AutoImportSettings">
+-    <option name="autoReloadType" value="SELECTIVE" />
+-  </component>
+-  <component name="AutomaticModuleUnloader">
+-    <loaded-modules>
+-      <module name="LTUServices" />
+-    </loaded-modules>
+-  </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="b5a71925-f33b-4e44-8b81-05b90dd282fe" name="Changes" comment="OscarFish">
++    <list default="true" id="d1c22eea-9d70-4e7e-a20b-0eba08ee6eeb" name="Changes" comment="">
++      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+     <option name="LAST_RESOLUTION" value="IGNORE" />
+-  </component>
+-  <component name="CompilerWorkspaceConfiguration">
+-    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+-  </component>
+-  <component name="FileTemplateManagerImpl">
+-    <option name="RECENT_TEMPLATES">
+-      <list>
+-        <option value="Class" />
+-        <option value="Interface" />
+-      </list>
+-    </option>
+   </component>
+   <component name="Git.Settings">
++    <option name="RECENT_BRANCH_BY_REPOSITORY">
++      <map>
++        <entry key="$PROJECT_DIR$" value="main" />
++      </map>
++    </option>
+     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+   </component>
+-  <component name="LogFilters">
+-    <option name="FILTER_ERRORS" value="false" />
+-    <option name="FILTER_WARNINGS" value="false" />
+-    <option name="FILTER_INFO" value="true" />
+-    <option name="FILTER_DEBUG" value="true" />
+-    <option name="CUSTOM_FILTER" />
++  <component name="MarkdownSettingsMigration">
++    <option name="stateVersion" value="1" />
+   </component>
+-  <component name="ProjectColorInfo">{
+-  &quot;associatedIndex&quot;: 8
+-}</component>
+-  <component name="ProjectId" id="2XuYemZjZMK0SpdU1rKoEFijfTX" />
+-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
++  <component name="ProjectColorInfo"><![CDATA[{
++  "associatedIndex": 2
++}]]></component>
++  <component name="ProjectId" id="2Y7XsUof0LwJW9MywbMIjvqoDP3" />
+   <component name="ProjectViewState">
+     <option name="hideEmptyMiddlePackages" value="true" />
+     <option name="showLibraryContents" value="true" />
+@@ -56,47 +34,21 @@
+   "keyToString": {
+     "RunOnceActivity.OpenProjectViewOnStart": "true",
+     "RunOnceActivity.ShowReadmeOnStart": "true",
+-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+-    "WebServerToolWindowFactoryState": "true",
+-    "WebServerToolWindowPanel.toolwindow.highlight.mappings": "true",
+-    "WebServerToolWindowPanel.toolwindow.highlight.symlinks": "true",
+-    "WebServerToolWindowPanel.toolwindow.show.date": "false",
+-    "WebServerToolWindowPanel.toolwindow.show.permissions": "false",
+-    "WebServerToolWindowPanel.toolwindow.show.size": "false",
+-    "jdk.selected.JAVA_MODULE": "corretto-17",
+-    "last_opened_file_path": "/home/themannen/IdeaProjects/bothnia",
++    "WebServerToolWindowFactoryState": "false",
+     "node.js.detected.package.eslint": "true",
+-    "node.js.detected.package.stylelint": "true",
+     "node.js.detected.package.tslint": "true",
+     "node.js.selected.package.eslint": "(autodetect)",
+-    "node.js.selected.package.stylelint": "",
+     "node.js.selected.package.tslint": "(autodetect)",
+-    "nodejs_package_manager_path": "npm",
+-    "project.structure.last.edited": "Libraries",
+-    "project.structure.proportion": "0.15",
+-    "project.structure.side.proportion": "0.412",
+-    "settings.editor.selected.configurable": "project.propDebugger",
++    "project.structure.last.edited": "Project",
++    "project.structure.proportion": "0.0",
++    "project.structure.side.proportion": "0.0",
+     "vue.rearranger.settings.migration": "true"
+   }
+ }]]></component>
+-  <component name="RecentsManager">
+-    <key name="MoveFile.RECENT_KEYS">
+-      <recent name="$PROJECT_DIR$" />
+-    </key>
+-    <key name="ExtractSuperBase.RECENT_KEYS">
+-      <recent name="Services" />
+-    </key>
+-  </component>
+   <component name="RunManager">
+-    <configuration name="EmilFish 7.0.10" type="GlassfishConfiguration" factoryName="Local" APPLICATION_SERVER_NAME="EmilFish 7.0.10" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+-      <option name="UPDATE_ON_FRAME_DEACTIVATION" value="true" />
+-      <option name="UPDATE_CLASSES_ON_FRAME_DEACTIVATION" value="true" />
+-      <option name="UPDATING_POLICY" value="redeploy-artifacts" />
+-      <deployment>
+-        <artifact name="LTUServices:war exploded">
+-          <settings />
+-        </artifact>
+-      </deployment>
++    <configuration name="GlassFish 7.0.10web" type="GlassfishConfiguration" factoryName="Local" APPLICATION_SERVER_NAME="GlassFish 7.0.10web" ALTERNATIVE_JRE_ENABLED="true" ALTERNATIVE_JRE_PATH="corretto-17" nameIsGenerated="true">
++      <option name="UPDATING_POLICY" value="restart-server" />
++      <deployment />
+       <server-settings>
+         <option name="DOMAIN" value="domain1" />
+         <option name="PRESERVE" value="false" />
+@@ -156,58 +108,22 @@
+       </ConfigurationWrapper>
+       <method v="2">
+         <option name="Make" enabled="true" />
+-        <option name="BuildArtifacts" enabled="true">
+-          <artifact name="LTUServices:war exploded" />
+-        </option>
+       </method>
+     </configuration>
+   </component>
+   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+   <component name="TaskManager">
+     <task active="true" id="Default" summary="Default task">
+-      <changelist id="b5a71925-f33b-4e44-8b81-05b90dd282fe" name="Changes" comment="" />
+-      <created>1699480532997</created>
++      <changelist id="d1c22eea-9d70-4e7e-a20b-0eba08ee6eeb" name="Changes" comment="" />
++      <created>1699877799189</created>
+       <option name="number" value="Default" />
+       <option name="presentableId" value="Default" />
+-      <updated>1699480532997</updated>
+-      <workItem from="1699480534020" duration="4717000" />
+-      <workItem from="1699493448458" duration="5705000" />
+-      <workItem from="1699518304596" duration="17552000" />
+-      <workItem from="1699604235495" duration="1138000" />
++      <updated>1699877799189</updated>
++      <workItem from="1699877800854" duration="335000" />
+     </task>
+-    <task id="LOCAL-00001" summary="OscarFish">
+-      <option name="closed" value="true" />
+-      <created>1699537904839</created>
+-      <option name="number" value="00001" />
+-      <option name="presentableId" value="LOCAL-00001" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1699537904839</updated>
+-    </task>
+-    <task id="LOCAL-00002" summary="OscarFish">
+-      <option name="closed" value="true" />
+-      <created>1699538491130</created>
+-      <option name="number" value="00002" />
+-      <option name="presentableId" value="LOCAL-00002" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1699538491130</updated>
+-    </task>
+-    <option name="localTasksCounter" value="3" />
+     <servers />
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">
+     <option name="version" value="3" />
+   </component>
+-  <component name="VcsManagerConfiguration">
+-    <MESSAGE value="OscarFish" />
+-    <option name="LAST_COMMIT_MESSAGE" value="OscarFish" />
+-  </component>
+-  <component name="XSLT-Support.FileAssociations.UIState">
+-    <expand>
+-      <path>
+-        <item name="LTUServices" type="b2602c69:ProjectViewProjectNode" />
+-        <item name="dir{file:///home/themannen/IdeaProjects/LTUServices}" type="462c0819:PsiDirectoryNode" />
+-      </path>
+-    </expand>
+-    <select />
+-  </component>
+ </project>
+\ No newline at end of file
