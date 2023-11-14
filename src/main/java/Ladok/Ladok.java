@@ -1,4 +1,4 @@
-package Model;
+package Ladok;
 
 import java.util.Date;
 

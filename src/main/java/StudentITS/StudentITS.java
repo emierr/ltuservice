@@ -1,4 +1,4 @@
-package Model;
+package StudentITS;
 
 public class StudentITS {
 public String personnummer;

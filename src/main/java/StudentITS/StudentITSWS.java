@@ -1,4 +1,4 @@
-package Services;
+package StudentITS;
 
 import jakarta.ws.rs.core.Response;
 

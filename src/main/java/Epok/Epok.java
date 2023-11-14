@@ -1,4 +1,4 @@
-package Model;
+package Epok;
 
 public class Epok {
 	public String kurskod;
