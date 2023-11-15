@@ -35,20 +35,30 @@ public class EpokController {
 		this.kurs = kurs;
 	}
 
+	public String nyKurs() {
+		String status = "";
+		try {
+			if (validate()) {
+				status = restClient.nyKurs(kurs);
+				facesContext.addMessage(status, new FacesMessage
+						(FacesMessage.SEVERITY_INFO,"Ny kurs tillagd.",kurs.toString()));
+			}
+		} catch (Exception exception) {
+			facesContext.addMessage(status, new FacesMessage
+					(FacesMessage.SEVERITY_ERROR,"New Book cannot be added", exception.getMessage()));
+		}
+		return status;
+	}
+
 	public void getKursById() {
 		kurs = restClient.getKurs();
 	}
 
 	private boolean validate() {
-		if ((kurs.getKursId() == null) || (kurs.getKursId().trim().isEmpty())) {
+		if ((kurs.getKursId() < 1) || (kurs.getKursKod() == null) || (kurs.getKursKod().trim().isEmpty())) {
 			facesContext.addMessage("form:kursID", new FacesMessage(
 					FacesMessage.SEVERITY_WARN, "Felaktigt kursID", "Ange giltigt kursID!!!!!!!!!"));
 		}
-		if (!facesContext.getMessageList().isEmpty()) {
-			return false;
-		} else {
-			return true;
-		}
+		return facesContext.getMessageList().isEmpty();
 	}
 }
-

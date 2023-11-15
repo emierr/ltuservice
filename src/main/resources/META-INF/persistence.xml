@@ -3,27 +3,9 @@
              xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
              xsi:schemaLocation="https://jakarta.ee/xml/ns/persistence https://jakarta.ee/xml/ns/persistence/persistence_3_0.xsd"
              version="3.0">
-    <persistence-unit name="default">
-
+    <persistence-unit name="epok" transaction-type="JTA">
+        <jta-data-source>jdbc/mariaResource</jta-data-source>
         <class>Canvas.CanvasEntity</class>
         <class>Epok.EpokEntitet</class>
-        <properties>
-            <property name="toplink.jdbc.url" value="jdbc:mariadb://themannen.xyz:3302"/>
-            <property name="toplink.jdbc.driver" value="org.mariadb.jdbc.Driver"/>
-            <property name="toplink.jdbc.user" value="java"/>
-            <property name="toplink.jdbc.password" value="grupp7sju"/>
-            <property name="hibernate.connection.url" value="jdbc:mariadb://themannen.xyz:3302"/>
-            <property name="hibernate.connection.driver_class" value="org.mariadb.jdbc.Driver"/>
-            <property name="hibernate.connection.username" value="java"/>
-            <property name="hibernate.connection.password" value="grupp7sju"/>
-            <property name="openjpa.ConnectionURL" value="jdbc:mariadb://themannen.xyz:3302"/>
-            <property name="openjpa.ConnectionDriverName" value="org.mariadb.jdbc.Driver"/>
-            <property name="openjpa.ConnectionUserName" value="java"/>
-            <property name="openjpa.ConnectionPassword" value="grupp7sju"/>
-            <property name="eclipselink.jdbc.url" value="jdbc:mariadb://themannen.xyz:3302"/>
-            <property name="eclipselink.jdbc.driver" value="org.mariadb.jdbc.Driver"/>
-            <property name="eclipselink.jdbc.user" value="java"/>
-            <property name="eclipselink.jdbc.password" value="grupp7sju"/>
-        </properties>
     </persistence-unit>
 </persistence>

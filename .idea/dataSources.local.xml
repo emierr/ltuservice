@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="dataSourceStorageLocal" created-in="IU-232.10227.8">
-    <data-source name="java@themannen.xyz" uuid="229b68a4-9353-4fda-bad4-ca1a26d34e91">
-      <database-info product="MariaDB" version="11.1.2-MariaDB" jdbc-version="4.2" driver-name="MariaDB Connector/J" driver-version="2.6.0" dbms="MARIADB" exact-version="11.1.2" exact-driver-version="2.6">
+    <data-source name="LTUServices@themannen.xyz" uuid="2bf08591-d2a1-4442-beb7-5207abcb0039">
+      <database-info product="MariaDB" version="11.1.2-MariaDB" jdbc-version="4.2" driver-name="MariaDB Connector/J" driver-version="3.0.7" dbms="MARIADB" exact-version="11.1.2" exact-driver-version="3.0">
         <extra-name-characters>#@</extra-name-characters>
         <identifier-quote-string>`</identifier-quote-string>
       </database-info>
@@ -11,7 +11,7 @@
       <user-name>java</user-name>
       <schema-mapping>
         <introspection-scope>
-          <node kind="schema" qname="LTUServices" />
+          <node kind="schema" qname="@" />
         </introspection-scope>
       </schema-mapping>
       <ssl-config use-ide-store="true" use-java-store="true" use-system-store="true">

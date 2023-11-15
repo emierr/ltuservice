@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DdlMappings">
+    <mapping uuid="feee703d-6ac4-45c7-9dde-449f29ed9573" name="LTUServices@themannen.xyz Mapping">
+      <data-sources db="2bf08591-d2a1-4442-beb7-5207abcb0039" ddl="12f866d7-5fdc-4355-b2ef-35ca89b8941d" />
+      <scope>
+        <node kind="schema" qname="LTUServices" />
+      </scope>
+    </mapping>
+  </component>
+  <component name="SqlDataSourceStorage">
+    <option name="dataSources">
+      <list>
+        <State>
+          <option name="id" value="12f866d7-5fdc-4355-b2ef-35ca89b8941d" />
+          <option name="name" value="DDL data source" />
+          <option name="dbmsName" value="MARIADB" />
+          <option name="parent" value="2bf08591-d2a1-4442-beb7-5207abcb0039" />
+          <option name="urls">
+            <array>
+              <option value="file://$PROJECT_DIR$/DDL/LTUServices/000-Canvas.sql" />
+              <option value="file://$PROJECT_DIR$/DDL/LTUServices/001-Epok.sql" />
+              <option value="file://$PROJECT_DIR$/DDL/LTUServices/002-StudentITS.sql" />
+              <option value="file://$PROJECT_DIR$/DDL/LTUServices/003-Modul.sql" />
+              <option value="file://$PROJECT_DIR$/DDL/LTUServices/006-Betyg.sql" />
+              <option value="file://$PROJECT_DIR$/DDL/LTUServices/004-Examination.sql" />
+              <option value="file://$PROJECT_DIR$/DDL/LTUServices/005-ModulOmdome.sql" />
+            </array>
+          </option>
+          <option name="outPath" value="$PROJECT_DIR$/DDL/LTUServices" />
+          <option name="outLayout" value="File per object with order.groovy" />
+          <option name="scriptOptions">
+            <map>
+              <entry key="ConstraintContext" value="CONSTRAINT_IN_TABLE" />
+              <entry key="CreateIfNotExists" value="1" />
+              <entry key="CreateOrReplace" value="1" />
+              <entry key="UseCompactDef" value="1" />
+              <entry key="UserGrants" value="1" />
+            </map>
+          </option>
+        </State>
+      </list>
+    </option>
+  </component>
+</project>

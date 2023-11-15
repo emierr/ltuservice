@@ -13,7 +13,7 @@ public class LTUApplication extends Application {
 	public LTUApplication() {
 		HashSet<Class<?>> c = new HashSet<>();
 		try {
-			Class jsonProvider = Class.forName("org.glassfish.jersey.jackson.JacksonFeature");
+			Class<?> jsonProvider = Class.forName("org.glassfish.jersey.jackson.JacksonFeature");
 					c.add(jsonProvider);
 		} catch (ClassNotFoundException ex) {
 			java.util.logging.Logger.getLogger(

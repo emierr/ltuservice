@@ -1,21 +1,22 @@
 package Epok;
-
 import jakarta.persistence.*;
+
+import java.util.Objects;
 
 @Entity
 @Table(name = "Epok", schema = "LTUServices")
 public class EpokEntitet {
-	private String kursId;
+	private int kursId;
 	private String kursKod;
 
 	@GeneratedValue(strategy = GenerationType.IDENTITY)
 	@Id
 	@Column(name = "kursID", nullable = false)
-	public String getKursId() {
+	public int getKursId() {
 		return kursId;
 	}
 
-	public void setKursId(String kursId) {
+	public void setKursId(int kursId) {
 		this.kursId = kursId;
 	}
 
@@ -37,15 +38,13 @@ public class EpokEntitet {
 		final EpokEntitet that = (EpokEntitet) o;
 
 		if (kursId != that.kursId) return false;
-		if (kursKod != null ? !kursKod.equals(that.kursKod) : that.kursKod != null) return false;
-
-		return true;
+		return Objects.equals(kursKod, that.kursKod);
 	}
 
-/*	@Override
+	@Override
 	public int hashCode() {
-		String result = kursId;
+		int result = kursId;
 		result = 31 * result + (kursKod != null ? kursKod.hashCode() : 0);
 		return result;
-	}*/
+	}
 }

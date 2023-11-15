@@ -15,33 +15,35 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b5a71925-f33b-4e44-8b81-05b90dd282fe" name="Changes" comment="OscarFish">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Canvas/CanvasEntity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Canvas/CanvasService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Epok/EpokController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Epok/EpokEntitet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Epok/EpokRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Epok/EpokRestClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Epok/EpokService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Ladok/LadokController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/StudentITS/StudentITSController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/229b68a4-9353-4fda-bad4-ca1a26d34e91.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/229b68a4-9353-4fda-bad4-ca1a26d34e91.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/229b68a4-9353-4fda-bad4-ca1a26d34e91/storage_v2/_src_/schema/LTUServices.S3_G7A.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/229b68a4-9353-4fda-bad4-ca1a26d34e91/storage_v2/_src_/schema/LTUServices.S3_G7A.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/c7e45b7d-c55a-4c58-967b-907991658474.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/c7e45b7d-c55a-4c58-967b-907991658474/storage_v2/_src_/schema/EPOK.x5MgAA.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/c7e45b7d-c55a-4c58-967b-907991658474/storage_v2/_src_/schema/LTUService.KEaCgw.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/c7e45b7d-c55a-4c58-967b-907991658474/storage_v2/_src_/schema/information_schema.FNRwLQ.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/c7e45b7d-c55a-4c58-967b-907991658474/storage_v2/_src_/schema/mysql.osA4Bg.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/c7e45b7d-c55a-4c58-967b-907991658474/storage_v2/_src_/schema/performance_schema.kIw0nw.meta" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sqlDataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DDL/LTUServices/000-Canvas.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DDL/LTUServices/001-Epok.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DDL/LTUServices/002-StudentITS.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DDL/LTUServices/003-Modul.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DDL/LTUServices/004-Examination.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DDL/LTUServices/005-ModulOmdome.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DDL/LTUServices/006-Betyg.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/229b68a4-9353-4fda-bad4-ca1a26d34e91.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/229b68a4-9353-4fda-bad4-ca1a26d34e91/storage_v2/_src_/schema/LTUServices.S3_G7A.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/229b68a4-9353-4fda-bad4-ca1a26d34e91/storage_v2/_src_/schema/information_schema.FNRwLQ.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/229b68a4-9353-4fda-bad4-ca1a26d34e91/storage_v2/_src_/schema/mysql.osA4Bg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/229b68a4-9353-4fda-bad4-ca1a26d34e91/storage_v2/_src_/schema/performance_schema.kIw0nw.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/deployment.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Controller/DbConnect.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Controller/DbConnect.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Controller/LTUApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LTUApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Model/Canvas.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Model/Epok.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Epok/Epok.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Model/Ladok.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Ladok/Ladok.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Model/StudentITS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/StudentITS/StudentITS.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Services/EpokWS.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Services/LadokWS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Ladok/LadokWS.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Services/StudentITSWS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/StudentITS/StudentITSWS.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Canvas/CanvasEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Canvas/CanvasEntity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Controller/DbConnect.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Epok/Epok.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Epok/EpokController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Epok/EpokController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Epok/EpokEntitet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Epok/EpokEntitet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Epok/EpokRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Epok/EpokRestClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Epok/EpokRestClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Epok/EpokService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Epok/EpokService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/LTUApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LTUApplication.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" afterDir="false" />
     </list>
     <list id="67943a0a-8def-4ea2-a321-3d6291f07565" name="Changes by Oscar Thern" comment="" />
@@ -51,18 +53,22 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CompilerWorkspaceConfiguration">
-    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+    <option name="CLEAR_OUTPUT_DIRECTORY" value="false" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
         <option value="Class" />
+        <option value="HTTP Private Environment File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HttpClientSelectedEnvironments">
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/generated-requests.http" />
   </component>
   <component name="LogFilters">
     <option name="FILTER_ERRORS" value="false" />
@@ -75,8 +81,12 @@
     <option name="generalSettings">
       <MavenGeneralSettings>
         <option name="mavenHome" value="Use Maven wrapper" />
+        <option name="printErrorStackTraces" value="true" />
       </MavenGeneralSettings>
     </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="DEPENDENCY_CHECKER_PROBLEMS_TAB" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
@@ -101,7 +111,7 @@
     "WebServerToolWindowPanel.toolwindow.show.size": "false",
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "jdk.selected.JAVA_MODULE": "corretto-17",
-    "last_opened_file_path": "/home/themannen/IdeaProjects/LTUServices/WEB-INF",
+    "last_opened_file_path": "/home/themannen/IdeaProjects/bothnia",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.stylelint": "true",
     "node.js.detected.package.tslint": "true",
@@ -109,10 +119,11 @@
     "node.js.selected.package.stylelint": "",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Libraries",
+    "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.412",
-    "settings.editor.selected.configurable": "MavenSettings",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "advanced.settings",
     "vue.rearranger.settings.migration": "true"
   },
   "keyToStringList": {
@@ -136,6 +147,7 @@
       <recent name="" />
     </key>
     <key name="ImportMappingsDialog.RecentPackages">
+      <recent name="" />
       <recent name="Epok" />
       <recent name="Canvas" />
     </key>
@@ -230,7 +242,10 @@
       <workItem from="1699907092199" duration="2131000" />
       <workItem from="1699947816759" duration="5678000" />
       <workItem from="1699954802488" duration="647000" />
-      <workItem from="1699960720915" duration="12229000" />
+      <workItem from="1699960720915" duration="14480000" />
+      <workItem from="1699979458694" duration="16271000" />
+      <workItem from="1700012397831" duration="9843000" />
+      <workItem from="1700032304911" duration="7030000" />
     </task>
     <task id="LOCAL-00001" summary="OscarFish">
       <option name="closed" value="true" />
@@ -272,7 +287,15 @@
       <option name="project" value="LOCAL" />
       <updated>1699909541231</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="OscarFish">
+      <option name="closed" value="true" />
+      <created>1699973084896</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1699973084896</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

@@ -6,7 +6,6 @@
         <serverdata>
           <mappings>
             <mapping deploy="/applications/" local="$PROJECT_DIR$" web="/LTUServices-SNAPSHOT/" />
-            <mapping deploy="/applications/" local="$PROJECT_DIR$/LTUwebapp" web="/LTUServices-SNAPSHOT/" />
           </mappings>
         </serverdata>
       </paths>
