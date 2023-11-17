@@ -1,5 +1,6 @@
 package Epok;
 
+import jakarta.ejb.EJB;
 import jakarta.ejb.Stateless;
 import jakarta.persistence.EntityManager;
 import jakarta.persistence.PersistenceContext;
@@ -17,6 +18,8 @@ import java.net.URI;
 @Consumes(MediaType.APPLICATION_JSON)
 @Stateless
 public class EpokService {
+	/*@EJB
+	private EpokEntitet kursen;*/
 	@PersistenceContext(name="epok")
 	EntityManager entityManager;
 	@Context
@@ -34,10 +37,13 @@ public class EpokService {
 	}
 
 	@POST
-	public Response insertKurs(String nyKursKod) {
-		entityManager.persist(nyKursKod);
-		URI uri = uriInfo.getAbsolutePathBuilder().path(nyKursKod).build();
-		if (nyKursKod == null || nyKursKod.trim().isEmpty()) {
+	@Path("{kod}")
+	public Response insertKurs(@PathParam("kod") String nyKursKod) {
+		EpokEntitet kurs = new EpokEntitet();
+		kurs.setKursKod(nyKursKod);
+		entityManager.persist(kurs);
+		URI uri = uriInfo.getAbsolutePathBuilder().path(kurs.getClass()).build();
+		if (kurs == null) {
 			throw new InternalServerErrorException();
 		} else {
 			return Response.created(uri).build();

@@ -7,7 +7,6 @@ import jakarta.ws.rs.client.Entity;
 import jakarta.ws.rs.core.*;
 
 import java.net.URI;
-import java.util.List;
 
 @Stateless
 public class EpokRestClient {

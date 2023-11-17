@@ -1,4 +1,3 @@
-
 package Epok;
 
 import jakarta.enterprise.context.RequestScoped;
@@ -6,16 +5,6 @@ import jakarta.faces.application.FacesMessage;
 import jakarta.faces.context.FacesContext;
 import jakarta.inject.Inject;
 import jakarta.inject.Named;
-import jakarta.ws.rs.GET;
-import jakarta.ws.rs.Path;
-import jakarta.ws.rs.Produces;
-import jakarta.ws.rs.core.MediaType;
-import jakarta.ws.rs.core.Response;
-import static Epok.EpokService.*;
-
-import javax.management.ObjectInstance;
-import java.util.ArrayList;
-import java.util.Objects;
 
 @Named(value = "kurs")
 @RequestScoped
@@ -27,6 +16,7 @@ public class EpokController {
 
 	public EpokController() {
 	}
+
 	public EpokEntitet getKurs(){
 		return kurs;
 	}

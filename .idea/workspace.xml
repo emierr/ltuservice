@@ -15,36 +15,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b5a71925-f33b-4e44-8b81-05b90dd282fe" name="Changes" comment="OscarFish">
-      <change afterPath="$PROJECT_DIR$/.idea/sqlDataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DDL/LTUServices/000-Canvas.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DDL/LTUServices/001-Epok.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DDL/LTUServices/002-StudentITS.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DDL/LTUServices/003-Modul.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DDL/LTUServices/004-Examination.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DDL/LTUServices/005-ModulOmdome.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DDL/LTUServices/006-Betyg.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/229b68a4-9353-4fda-bad4-ca1a26d34e91.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/229b68a4-9353-4fda-bad4-ca1a26d34e91/storage_v2/_src_/schema/LTUServices.S3_G7A.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/229b68a4-9353-4fda-bad4-ca1a26d34e91/storage_v2/_src_/schema/information_schema.FNRwLQ.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/229b68a4-9353-4fda-bad4-ca1a26d34e91/storage_v2/_src_/schema/mysql.osA4Bg.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/229b68a4-9353-4fda-bad4-ca1a26d34e91/storage_v2/_src_/schema/performance_schema.kIw0nw.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/deployment.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEB-INF/glassfish-web.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Canvas/CanvasEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Canvas/CanvasEntity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Controller/DbConnect.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Epok/Epok.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Epok/EpokController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Epok/EpokController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Epok/EpokEntitet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Epok/EpokEntitet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Epok/EpokRepository.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Epok/EpokRestClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Epok/EpokRestClient.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Epok/EpokService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Epok/EpokService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/LTUApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LTUApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" afterDir="false" />
     </list>
     <list id="67943a0a-8def-4ea2-a321-3d6291f07565" name="Changes by Oscar Thern" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -86,7 +63,7 @@
     </option>
   </component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="DEPENDENCY_CHECKER_PROBLEMS_TAB" />
+    <option name="selectedTabId" value="QODANA_PROBLEMS_VIEW_TAB" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
@@ -123,7 +100,7 @@
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.412",
     "run.code.analysis.last.selected.profile": "pProject Default",
-    "settings.editor.selected.configurable": "advanced.settings",
+    "settings.editor.selected.configurable": "MavenSettings",
     "vue.rearranger.settings.migration": "true"
   },
   "keyToStringList": {
@@ -205,7 +182,7 @@
         </SHUTDOWN>
       </ConfigurationWrapper>
       <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
-        <option name="USE_ENV_VARIABLES" value="true" />
+        <option name="USE_ENV_VARIABLES" value="false" />
         <STARTUP>
           <option name="USE_DEFAULT" value="true" />
           <option name="SCRIPT" value="" />
@@ -245,7 +222,10 @@
       <workItem from="1699960720915" duration="14480000" />
       <workItem from="1699979458694" duration="16271000" />
       <workItem from="1700012397831" duration="9843000" />
-      <workItem from="1700032304911" duration="7030000" />
+      <workItem from="1700032304911" duration="10130000" />
+      <workItem from="1700044251546" duration="1089000" />
+      <workItem from="1700093349812" duration="209000" />
+      <workItem from="1700096598321" duration="3740000" />
     </task>
     <task id="LOCAL-00001" summary="OscarFish">
       <option name="closed" value="true" />
@@ -295,7 +275,15 @@
       <option name="project" value="LOCAL" />
       <updated>1699973084896</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="OscarFish">
+      <option name="closed" value="true" />
+      <created>1700039366810</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1700039366810</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
